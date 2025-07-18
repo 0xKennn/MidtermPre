@@ -516,3 +516,44 @@
   height: 296px;
   bottom: 77px;
 }
+
+.black-line {
+  position: relative;
+  width: 1292.5px;
+  height: 0px;
+  border: 1px solid black;
+  left: 67px;
+  top: 161px;
+}
+
+.academicx-footer-logo {
+  position: relative;
+  z-index: 1;
+  left: 67px;
+  top: 190px;
+}
+
+.powered-by-txt {
+  position: relative;
+  width: 200px;
+  height: 17px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 100%;
+  top: 147px;
+  left: 637px;
+  z-index: 1;
+}
+
+.copyright-txt {
+  position: relative;
+  font-family: "Inter", sans-serif;
+  width: 350px;
+  height: 17px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 100%;
+  left: 551px;
+  top: 145px;
+}
